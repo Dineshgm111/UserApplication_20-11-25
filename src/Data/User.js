@@ -1,0 +1,22 @@
+export const users = [
+  { id: 1, name: "Aarav", age: 23, email: "aarav@example.com", city: "Bangalore" },
+  { id: 2, name: "Riya", age: 21, email: "riya@example.com", city: "Mumbai" },
+  { id: 3, name: "Karthik", age: 28, email: "karthik@example.com", city: "Chennai" },
+  { id: 4, name: "Megha", age: 26, email: "megha@example.com", city: "Delhi" },
+  { id: 5, name: "Sanjay", age: 24, email: "sanjay@example.com", city: "Hyderabad" },
+  { id: 6, name: "Pooja", age: 22, email: "pooja@example.com", city: "Pune" },
+  { id: 7, name: "Vikram", age: 29, email: "vikram@example.com", city: "Mysore" },
+  { id: 8, name: "Sneha", age: 25, email: "sneha@example.com", city: "Kochi" },
+  { id: 9, name: "Abhinav", age: 27, email: "abhinav@example.com", city: "Vizag" },
+  { id: 10, name: "Divya", age: 23, email: "divya@example.com", city: "Coimbatore" },
+  { id: 11, name: "Rahul", age: 30, email: "rahul@example.com", city: "Bhopal" },
+  { id: 12, name: "Keerthi", age: 28, email: "keerthi@example.com", city: "Madurai" },
+  { id: 13, name: "Harsha", age: 24, email: "harsha@example.com", city: "Nagpur" },
+  { id: 14, name: "Lavanya", age: 26, email: "lavanya@example.com", city: "Noida" },
+  { id: 15, name: "Rohit", age: 27, email: "rohit@example.com", city: "Gurgaon" },
+  { id: 16, name: "Swathi", age: 22, email: "swathi@example.com", city: "Surat" },
+  { id: 17, name: "Mohan", age: 31, email: "mohan@example.com", city: "Jaipur" },
+  { id: 18, name: "Anusha", age: 29, email: "anusha@example.com", city: "Indore" },
+  { id: 19, name: "Gaurav", age: 25, email: "gaurav@example.com", city: "Ranchi" },
+  { id: 20, name: "Nandini", age: 23, email: "nandini@example.com", city: "Patna" }
+];

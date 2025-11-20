@@ -1,0 +1,7 @@
+.filters select {
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(34, 40, 60, 0.08);
+  background: white;
+  font-size: 14px;
+}

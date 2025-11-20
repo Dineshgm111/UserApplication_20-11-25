@@ -1,0 +1,22 @@
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 22px 50px;
+}
+.pagination .controls button {
+  margin: 0 6px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(34,40,60,0.08);
+  background: white;
+  cursor: pointer;
+}
+.pagination .controls button.active {
+  background: #5568ff;
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 8px 24px rgba(85,104,255,0.16);
+}
+.pagination .controls button:disabled { opacity: .5; cursor: not-allowed; }
+.pagination .summary { color: #556; font-size: 14px; }

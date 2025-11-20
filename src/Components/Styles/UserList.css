@@ -1,0 +1,12 @@
+.user-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 28px;
+  padding: 20px 50px 10px 50px;
+}
+
+.empty {
+  padding: 60px;
+  text-align: center;
+  color: #7b8097;
+}
