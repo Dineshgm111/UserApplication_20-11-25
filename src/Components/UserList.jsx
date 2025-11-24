@@ -1,5 +1,5 @@
 import React from "react";
-import UserCard from "./UserCard";
+import UserCard from "./UserCards";
 import "./styles/UserList.css";
 
 export default function UserList({ users = [], onOpen = () => {} }) {
